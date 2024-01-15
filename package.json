@@ -1,0 +1,12 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "patterns book from HF scratches",
+  "main": "src/index.ts",
+  "author": "joymestudios",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
